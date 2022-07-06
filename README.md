@@ -2,8 +2,8 @@
 ___________________________________________________________
 
 🔭 I’m currently working on be a programmer<br></br>
--🌱 I’m currently learning web developer <br></br>
--😄 Pronouns: She/Her 
+🌱 I’m currently learning web developer <br></br>
+😄 Pronouns: She/Her 
 
 
 <div align="center">
