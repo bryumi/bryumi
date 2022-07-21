@@ -1,8 +1,8 @@
 ### Hi there ✨
 ___________________________________________________________
 
-🔭 I’m currently working on be a programmer
-🌱 I’m currently learning web developer 
+🔭 I’m currently working on be a programmer <br>
+🌱 I’m currently learning web developer <br>
 😄 Pronouns: She/Her 
 
 
